@@ -16,7 +16,7 @@ const createAlternatingCaseString = (alphabets) => {
     .join('');
 };
 
-app.post('/bajaj', (req, res) => {
+app.post('/bfhl', (req, res) => {
   try {
     const { data } = req.body;
 
